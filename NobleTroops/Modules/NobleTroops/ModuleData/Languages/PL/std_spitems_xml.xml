@@ -1,53 +1,54 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
 	<tags>
-		<tag language="English" />
+		<tag language="Polski" />
+		<!-- tłumaczenie: Daedalus, daedalus.pl@gmail.com -->
 	</tags>
 	<strings>
-		<string id="ITEM001" text="Zenian Crossbow" />
-		<string id="ITEM002" text="One handed Falx" />
-		<string id="ITEM003" text="Vaeg Bow" />
-		<string id="ITEM004" text="Vaeg Arrows" />
-		<string id="ITEM005" text="Big Banner" />
-		<string id="ITEM006" text="Northern Stallari Two Handed Axe" />
-		<string id="ITEM007" text="Stallari Throwing Axe" />
-		<string id="ITEM008" text="Teutonic Tabard Over Mail" />
-		<string id="ITEM009" text="Teutonic Visored Helmet" />
-		<string id="ITEM010" text="Teutonic Mail Mittens" />
-		<string id="ITEM011" text="Teutonic Mail Chausses" />
-		<string id="ITEM012" text="Teutonic Long Cape" />
-		<string id="ITEM013" text="Ausburgian Two Hander" />
-		<string id="ITEM014" text="Ausburgian Arming Sword" />
-		<string id="ITEM015" text="Broad Two Hander" />
-		<string id="ITEM016" text="Ausburgian Thamaskene Two Hander" />
-		<string id="ITEM017" text="Ausburgian Halberd" />
-		<string id="ITEM018" text="Ausburgian Sword With Golden Petals Imprint" />
-		<string id="ITEM019" text="Imperial Belisarii Arrows" />
-		<string id="ITEM020" text="Short Leaf Spear" />
-		<string id="ITEM021" text="Short Engraved Backsword" />
-		<string id="ITEM022" text="Battanian Pictish Armor" />
-		<string id="ITEM023" text="Battanian Longbow" />
-		<string id="ITEM024" text="Stack of Range Arrows" />
-		<string id="ITEM025" text="Fian Noble Long Bow"  />
-		<string id="ITEM026" text="Fian Noble Arrows"  />
-		<string id="ITEM027" text="Gallic Warlord Armor"  />
-		<string id="ITEM028" text="Gallic Warlord Helm"  />
-		<string id="ITEM029" text="Gallic Warlord Bracers"  />
-		<string id="ITEM030" text="Gallic Warlord Boots"  />
-		<string id="ITEM031" text="Gallic Warlord Pauldrons" /> 
-		<string id="ITEM032" text="Hunnic War Bow (3)" />
-		<string id="ITEM033" text="Hunnic War Bow (6)" />
-		<string id="ITEM034" text="Hunnic War Bow (9)" />
-		<string id="ITEM035" text="Scythian Ax" />
-		<string id="ITEM036" text="Two Handed Foreign Sabre" />
-		<string id="ITEM037" text="Two Handed Foreign Polearm" />
-		<string id="ITEM038" text="Sarracen Throwing Scimitar" />
-		<string id="ITEM039" text="Hashashin Daggers" />
-		<string id="ITEM040" text="Sarracen Camel" />
-		<string id="ITEM041" text="Persian Short Spear" />
-		<string id="ITEM042" text="Immortal Kefiyyeh" />
-		<string id="ITEM043" text="Immortal Lamellar Armor" />
-		<string id="ITEM044" text="Sarracen Two Handed Mace" />
-		<string id="ITEM045" text="Sarracen Two Handed Heavy Mace" />
+		<string id="ITEM001" text="Zêniańska kusza" />
+		<string id="ITEM002" text="Jednoręczny falx" />
+		<string id="ITEM003" text="Vaegski łuk" />
+		<string id="ITEM004" text="Vaegskie strzały" />
+		<string id="ITEM005" text="Wielka chorągiew" />
+		<string id="ITEM006" text="Północny dwuręczny topór stallari" />
+		<string id="ITEM007" text="Topory do rzucania stallari" />
+		<string id="ITEM008" text="Teutoński tabard na kolczudze" />
+		<string id="ITEM009" text="Teutońska przyłbica" />
+		<string id="ITEM010" text="Teutońskie rękawice kolcze" />
+		<string id="ITEM011" text="Teutońskie trzewiki kolcze" />
+		<string id="ITEM012" text="Teutońska długa peleryna" />
+		<string id="ITEM013" text="Ausburski dwuręczniak" />
+		<string id="ITEM014" text="Ausburski miecz rycerski" />
+		<string id="ITEM015" text="Szeroki dwuręczniak" />
+		<string id="ITEM016" text="Ausburski tamaskeński dwuręczniak" />
+		<string id="ITEM017" text="Ausburska halabarda" />
+		<string id="ITEM018" text="Ausburski miecz zdobiony złotymi płatkami" />
+		<string id="ITEM019" text="Strzały imperialnego belisarii" />
+		<string id="ITEM020" text="Krótka włócznia z szerokim grotem" />
+		<string id="ITEM021" text="Krótki grawerowany kord" />
+		<string id="ITEM022" text="Battańska zbroja piktyjska" />
+		<string id="ITEM023" text="Battański długi łuk" />
+		<string id="ITEM024" text="Pęk strzał myśliwskich" />
+		<string id="ITEM025" text="Szlachecki długi łuk Fiana"  />
+		<string id="ITEM026" text="Szlacheckie strzały Fiana"  />
+		<string id="ITEM027" text="Galicka zbroja wodza"  />
+		<string id="ITEM028" text="Galicki hełm wodza"  />
+		<string id="ITEM029" text="Galickie karwasze wodza"  />
+		<string id="ITEM030" text="Galickie buty wodza"  />
+		<string id="ITEM031" text="Galickie naramienniki wodza" /> 
+		<string id="ITEM032" text="Huński łuk wojenny (3)" />
+		<string id="ITEM033" text="Huński łuk wojenny (6)" />
+		<string id="ITEM034" text="Huński łuk wojenny (9)" />
+		<string id="ITEM035" text="Scytyjski topór" />
+		<string id="ITEM036" text="Dwuręczna zagraniczna szabla" />
+		<string id="ITEM037" text="Dwuręczna zagraniczna broń drzewcowa" />
+		<string id="ITEM038" text="Saraceński bułat do rzucania" />
+		<string id="ITEM039" text="Sztylety asasyna" />
+		<string id="ITEM040" text="Saraceński wielbłąd" />
+		<string id="ITEM041" text="Perska krótka włócznia" />
+		<string id="ITEM042" text="Kefija Nieśmiertelnego" />
+		<string id="ITEM043" text="Zbroja lamelkowa Nieśmiertelnego" />
+		<string id="ITEM044" text="Saraceńska dwuręczna buława" />
+		<string id="ITEM045" text="Saraceńska ciężka dwuręczna buława" />
 	</strings>
 </base>

@@ -1,98 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
 	<tags>
-		<tag language="English" />
+		<tag language="Polski" />
+		<!-- tłumaczenie: Daedalus, daedalus.pl@gmail.com -->
 	</tags>
 	<strings>
 		<!-- # region : Vlandia -->
-		<string id="VLANct01" text="Vlandian Halberdier" />
-		<string id="VLANct02" text="Vlandian Heavy Cavalry" />
-		<string id="VLANct03" text="Vlandian Squire of the Lion" />
-		<string id="VLANct04" text="Vlandian Zênian Crossbowman" />
-		<string id="VLANnt01" text="Vlandian Knight of the Lion" />
-		<string id="VLANnt02" text="Ausburgian Adliger" />
-		<string id="VLANnt03" text="Ausburgian Doppelhänder" />
-		<string id="VLANnt04" text="Ausburgian Zweihandmeister" />
-		<string id="VLANnt05" text="Ausburgian Ritter" />
-		<string id="VLANnt06" text="Ausburgian Waffenknecht" />
-		<string id="VLANnt07" text="Ausburgian Edelknappe" />
+		<string id="VLANct01" text="Vlandyjski halabardnik" />
+		<string id="VLANct02" text="Vlandyjski ciężki kawalerzysta" />
+		<string id="VLANct03" text="Vlandyjski giermek Lwa" />
+		<string id="VLANct04" text="Vlandyjski zêniański kusznik" />
+		<string id="VLANnt01" text="Vlandyjski rycerz Lwa" />
+		<string id="VLANnt02" text="Ausburski adliger" />
+		<string id="VLANnt03" text="Ausburski doppelhänder" />
+		<string id="VLANnt04" text="Ausburski zweihandmeister" />
+		<string id="VLANnt05" text="Ausburski ritter" />
+		<string id="VLANnt06" text="Ausburski waffenknecht" />
+		<string id="VLANnt07" text="Ausburski edelknappe" />
 		
 		<!-- # region : Sturgia -->
-		<string id="STURct01" text="Sturgian Shield Maiden" />
-		<string id="STURct02" text="Sturgian Spear Maiden" />
-		<string id="STURct03" text="Sturgian Huntress" />
-		<string id="STURct04" text="Sturgian Einherjar" />
-		<string id="STURct05" text="Sturgian Valkyrie" />
-		<string id="STURct06" text="Sturgian Ranger" />
-		<string id="STURct07" text="Sturgian Huskarl" />
-		<string id="STURnt01" text="Vaeg Noble" />
-		<string id="STURnt02" text="Vaeg Bowman" />
-		<string id="STURnt03" text="Vaeg Archer" />
-		<string id="STURnt04" text="Vaeg Marksman" />
-		<string id="STURnt05" text="Vaeg Kngaz" />
-		<string id="STURnt06" text="Sturgian Merkismathr" />
-		<string id="STURnt07" text="Sturgian Thane" />
-		<string id="STURnt08" text="Sturgian Stallari" />
+		<string id="STURct01" text="Sturgijska tarczowniczka" />
+		<string id="STURct02" text="Sturgijska włóczniczka" />
+		<string id="STURct03" text="Sturgijska tropicielka" /><!-- myśliwa?-->
+		<string id="STURct04" text="Sturgijska einherjar" />
+		<string id="STURct05" text="Sturgijska walkiria" />
+		<string id="STURct06" text="Sturgijski łowca" />
+		<string id="STURct07" text="Sturgijski huskarl" />
+		<string id="STURnt01" text="Vaegski szlachcic" />
+		<string id="STURnt02" text="Vaegski łucznik" />
+		<string id="STURnt03" text="Vaegski doświadczony łucznik" />
+		<string id="STURnt04" text="Vaegski strzelec wyborowy" />
+		<string id="STURnt05" text="Vaegski kniaź" />
+		<string id="STURnt06" text="Sturgijski merkismathr" /><!--chorąży-->
+		<string id="STURnt07" text="Sturgijski tan" />
+		<string id="STURnt08" text="Sturgijski stallari" /><!--marszałek-->
 		
 		<!-- # region : Khuzait -->
-		<string id="KHUZct01" text="Khuzait Mangudaï" />
-		<string id="KHUZct02" text="Khuzait Kipchak" />
-		<string id="KHUZct03" text="Khuzait Steppe Lancer" />
-		<string id="KHUZct04" text="Khuzait Kuman" />
-		<string id="KHUZct05" text="Khuzait Kumanlar" />
-		<string id="KHUZct06" text="Khuzait Kuman Khan" />
-		<string id="KHUZnt01" text="Hunnaït Archer" />
-		<string id="KHUZnt02" text="Hunnaït Veteran Archer" />
-		<string id="KHUZnt03" text="Hunnaït Elite Archer" />
-		<string id="KHUZnt04" text="Hunnaït Scourge Of God" />
-	    <string id="KHUZnt05" text="Xhianghaït Warrior" />
-        <string id="KHUZnt06" text="Xhianghaït Kurtáj" />
+		<string id="KHUZct01" text="Khuzaicki Mangudaï" />
+		<string id="KHUZct02" text="Khuzaicki Kipczak" />
+		<string id="KHUZct03" text="Khuzaicki stepowy lansjer" />
+		<string id="KHUZct04" text="Khuzaicki Połowiec" />
+		<string id="KHUZct05" text="Khuzaicki elitarny Połowiec" />
+		<string id="KHUZct06" text="Khuzaicki chan Połowców" />
+		<string id="KHUZnt01" text="Hunnaïcki łucznik" />
+		<string id="KHUZnt02" text="Hunnaïcki doświadczony łucznik" />
+		<string id="KHUZnt03" text="Hunnaïcki elitarny łucznik" />
+		<string id="KHUZnt04" text="Hunnaïcki Bicz Boży" />
+	    <string id="KHUZnt05" text="Xhianghaïcki wojownik" />
+        <string id="KHUZnt06" text="Xhianghaïcki kurtáj" />
 
 		<!-- # region : Empire -->
-		<string id="EMPIct01" text="Imperial Armored Crossbowman" />
-		<string id="EMPIct02" text="Imperial Kontaratoi" />
-		<string id="EMPIct03" text="Imperial Spathatoi" />
-		<string id="EMPIct04" text="Imperial Varangian" />
-		<string id="EMPInt01" text="Imperial Grivpanvar" />
-		<string id="EMPInt02" text="Imperial Athanatoi" />
-		<string id="EMPInt03" text="Imperial Belisarii" />
-		<string id="EMPInt04" text="Imperial Elite Belisarii" />
-		<string id="EMPInt05" text="Imperial Megale Hetaireia" />
-		<string id="EMPInt06" text="Imperial Hetaeriarch" />
-		<string id="EMPInt07" text="Imperial Praetorian" />
-		<string id="EMPInt08" text="Imperial Hetaireia" />
+		<string id="EMPIct01" text="Imperialny pancerny kusznik" />
+		<string id="EMPIct02" text="Imperialny kontaratoi" />
+		<string id="EMPIct03" text="Imperialny spathatoi" />
+		<string id="EMPIct04" text="Imperialny Wariag" />
+		<string id="EMPInt01" text="Imperialny grivpanvar" />
+		<string id="EMPInt02" text="Imperialny athanatoi" />
+		<string id="EMPInt03" text="Imperialny belisarii" />
+		<string id="EMPInt04" text="Imperialny elitarny belisarii" />
+		<string id="EMPInt08" text="Imperialny hetaireia" />
+		<string id="EMPInt05" text="Imperialny megale hetaireia" />
+		<string id="EMPInt06" text="Imperialny hetaeriarcha" />
+		<string id="EMPInt07" text="Imperialny pretorianin" />
 		
 		<!-- # region : Battania -->
-		<string id="BATTct01" text="Battanian Sotaroas" />
-		<string id="BATTct02" text="Battanian Veteran Sotaroas" />
-		<string id="BATTct03" text="Battanian Dacian Warrior" />
-		<string id="BATTct04" text="Battanian Niadh Nask" />
-		<string id="BATTct05" text="Battanian Pictish Warrior" />
-		<string id="BATTct06" text="Battanian Gaulan Skirmisher" />
-		<string id="BATTnt01" text="Celtic Warrior"  />
-		<string id="BATTnt02" text="Battanian Fian Legend" />
-		<string id="BATTnt03" text="Getae Skirmisher"  />
-		<string id="BATTnt04" text="Getae Wolf Warrior" />
-		<string id="BATTnt05" text="Getae Pack Master" />
-		<string id="BATTnt06" text="Suebi Warrior" />
-		<string id="BATTnt07" text="Suebi Veteran" />
-		<string id="BATTnt08" text="Suebi Honor Guard" />
-		<string id="BATTnt09" text="Suebi Warlord" />
+		<string id="BATTct01" text="Battański sotaroas" />
+		<string id="BATTct02" text="Battański doświadczony sotaroas" />
+		<string id="BATTct03" text="Battański wojownik dacki" />
+		<string id="BATTct04" text="Battański Niadh Nask" />
+		<string id="BATTct05" text="Battański wojownik piktyjski" />
+		<string id="BATTct06" text="Battański harcownik galicki" />
+		<string id="BATTnt01" text="Celtycki wojownik"  />
+		<string id="BATTnt02" text="Battański legendarny Fian" />
+		<string id="BATTnt03" text="Getaecki harcownik"  />
+		<string id="BATTnt04" text="Getaecki wilczy wojownik" />
+		<string id="BATTnt05" text="Getaecki przywódca watahy" />
+		<string id="BATTnt06" text="Suebicki wojownik" />
+		<string id="BATTnt07" text="Suebicki weteran" />
+		<string id="BATTnt08" text="Suebicki gwardzista honorowy" />
+		<string id="BATTnt09" text="Suebicki wódz" />
 		
 		<!-- # region : Aserai -->
-		<string id="ASERct01" text="Aserai Camelry" />
-		<string id="ASERct02" text="Aserai Camelry Nabateai" />
-		<string id="ASERct03" text="Aserai Mehari" />
-		<string id="ASERct04" text="Aserai Janissary" />
-		<string id="ASERct05" text="Aserai Hashashin" />
-		<string id="ASERct06" text="Aserai Nizari Hashashin" />
-		<string id="ASERct07" text="Aserai Nizari Murîd" />
-		<string id="ASERnt01" text="Aserai Sowar" />
-		<string id="ASERnt02" text="Aserai Elite Sowar" />
-		<string id="ASERnt03" text="Achaemenai Sparabarai" />
-		<string id="ASERnt04" text="Achaemenai Elite Sparabarai" />
-		<string id="ASERnt05" text="Achaemenai Immortal" />
-		<string id="ASERnt06" text="Aserai Clibanarii" />
-		<string id="ASERnt07" text="Aserai Aswār" />
+		<string id="ASERct01" text="Aserajski wielbłądnik" />
+		<string id="ASERct02" text="Aserajski wielbłądnik nabatejski" />
+		<string id="ASERct03" text="Aserajski mehari" />
+		<string id="ASERct04" text="Aserajski janczar" />
+		<string id="ASERct05" text="Aserajski asasyn" />
+		<string id="ASERct06" text="Aserajski nizarycki asasyn" />
+		<string id="ASERct07" text="Aserajski nizarycki murîd" />
+		<string id="ASERnt01" text="Aserajski sowar" />
+		<string id="ASERnt02" text="Aserajski elitarny sowar" />
+		<string id="ASERnt03" text="Achaemenajski sparabarai" />
+		<string id="ASERnt04" text="Achaemenajski elitarny sparabarai" />
+		<string id="ASERnt05" text="Achaemenajski Nieśmiertelny" />
+		<string id="ASERnt06" text="Aserajski klibanariusz" />
+		<string id="ASERnt07" text="Aserajski aswār" />
 	</strings>
 </base>

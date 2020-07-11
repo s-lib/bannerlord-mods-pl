@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
 	<tags>
-		<tag language="English" />
+		<tag language="Polski" />
+		<!-- tłumaczenie: Daedalus, daedalus.pl@gmail.com -->
 	</tags>
 	<strings>
-		<string id="ITEMcra1" text="Sarracen Blade" />
-		<string id="ITEMcra2" text="Sarracen Guard" />
-		<string id="ITEMcra3" text="Sarracen Grip" />
-		<string id="ITEMcra4" text="Desert Pommel" />
-		<string id="ITEMcra5" text="Sarracen Mace Head" />
-		<string id="ITEMcra6" text="Spiralled Mace Head" />
-		<string id="ITEMcra7" text="Hashashin Dagger Blade" />
+		<string id="ITEMcra1" text="Saraceńskie ostrze" />
+		<string id="ITEMcra2" text="Saraceński jelec" />
+		<string id="ITEMcra3" text="Saraceński trzon" />
+		<string id="ITEMcra4" text="Pustynna głowica" />
+		<string id="ITEMcra5" text="Saraceńska głowica buławy" />
+		<string id="ITEMcra6" text="Spiralna głowica buławy" />
+		<string id="ITEMcra7" text="Ostrze sztyletu asasyna" />
 		<!--Templates-->
-		<string id="ITEMtem1" text="Throwing Sabre" />
-		<string id="ITEMtem2" text="Sarracen Two Handed Mace" />
+		<string id="ITEMtem1" text="Bułat do rzucania" />
+		<string id="ITEMtem2" text="Saraceńska dwuręczna buława" />
 	</strings>
 </base>
