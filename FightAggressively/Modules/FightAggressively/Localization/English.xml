@@ -1,46 +1,46 @@
 <FightAggressively>
-<DebugLog>Debug Log_If an error occurs in this mod, a red log is output.</DebugLog>
-<EnemyGeneralsMessage> Enemy General's Message_Enabling some features will output an enemy general's message in battle.</EnemyGeneralsMessage>
-<AutomaticallyRemoveObjectsInTheField>Remove objects automatically_If you are fighting in a siege, there are very many objects, such as weapons and shields. These objects roll a lot on the floor for a very long time. Until I finished the battle with 1150 vs 450, they remained, and I thought that many objects were being calculated and inspected by the game engine. So I added a function to optimize these.</AutomaticallyRemoveObjectsInTheField>
-<HorseHealthIsSlowlyRestored> The horse slowly regains health_This is for the horse you are riding. Horses regenerate once a second by 0.75% of their total health. </HorseHealthIsSlowlyRestored>
-<GiveTheHorseAHeal> Give the horse a heel! _This is for the horse you are riding. When a character hits an enemy, the horse riding recovers 2% of its total health. </GiveTheHorseAHeal>
-<CharacterHealthIsSlowlyRestored> Character slowly recovers health_this is only for your character. Characters are regenerated once a second by 0.75% of their total health. </CharacterHealthIsSlowlyRestored>
-<LetsBattleInTheMorning>Let's Battle In The Morning_Night and dawn change to morning or afternoon, only active at 0-9 am and 18-24 pm when entering the battle, and during the day the function is deactivated and naturally passes.</LetsBattleInTheMorning>
-<PartyPrisonerSizeLimit>Party Prisoner Size Limit_The maximum number of prisoners allowed is fixed at 2000.</PartyPrisonerSizeLimit>
-<PartyMemberSizeLimit>Party Member Size Limit_The maximum number of soldiers who can lead the unit is fixed at 2000.</PartyMemberSizeLimit>
-<GiveMeHeal>Give Me Heal!_This mod is only for your character. Recovers 6.5% of your maximum health regardless of the damage you hit. This mod now recovers 6.5% after hitting, but may change in the future. It has no effect in tournaments. Defending your attack will not restore health. The effect is activated only when attacking a field battle or hiding place. Health is restored even when shooting spears and bows and hitting.</GiveMeHeal>
-<NeverRunAwayOrPanic>Never running away or panic _ Soldiers never run away or panic. The 'Reduce the state of running away or panic' feature is disabled if you have enabled this feature.</NeverRunAwayOrPanic>
-<ReduceTheSituationOfRunningAwayOrPanic>Reduce the state of running away or panic _ Soldiers escape or panic, but they are applied less than before. Soldiers will no longer be managed in mod from 14/500 12/250 10/100 8/50 6/25 4/10 (minimum/total). From this point on, the soldiers will flee when the morale runs out. The 'Never running away or panic','The Last Assault' feature is disabled if you have enabled this feature.</ReduceTheSituationOfRunningAwayOrPanic>
-<IgnoreTheRetreatOrders>Ignore The Retreat Orders!_Even if the longevity orders to retreat, the soldiers ignore them and attack more aggressively.</IgnoreTheRetreatOrders>
-<TheLastAssault>The Last Assault!_If the number of enemy soldiers is less than 15% of the total, the longevity orders the soldiers to charge. If only 75 of the 500 remain, all are ordered.  The 'Reduce the state of running away or panic' feature is disabled if you have enabled this feature.</TheLastAssault>
-<BonusOnAttackAndDefense>Bonus On Attack And Defense!_When a longevity orders an offensive or defensive command to the soldiers, the soldiers get additional action bonuses. It makes soldiers more aggressive and defensive when fighting enemy forces.</BonusOnAttackAndDefense>
-<TheConditionOfTheDay>The Condition Of The Day!_Depending on the state of the day, soldiers fight better or worse.</TheConditionOfTheDay>
-<AggressiveAttackAndDefense>Aggressive Attack And Defense!_They are trained soldiers, they can better block when defending against enemy attacks, and they know where to block.</AggressiveAttackAndDefense>
-<ProtectTheGates>Protect The Gates!_In siege, ShieldWall soldiers in the center of the defense team's area attack enthusiastically when the gates are broken.</ProtectTheGates>
-<AttackWhileMoving>Attack While Moving!_if the longevity orders the soldiers to follow or order them to move there, the soldiers will not stop attacking while moving.</AttackWhileMoving>
-<IgnoreFormation>Ignore Formation!_If the enemy is near, ignore the formation and run directly to fight.</IgnoreFormation>
-<DontWalkRun>Don't Walk And Run!_They run to attack the enemy. But when I almost arrive I start walking and do nothing. I thought this was a very stupid feature for the war. So I let them run without walking</DontWalkRun>
-<DefenseTeamsArrowinSiege>Defense Team's Arrow in Siege_In siege, the archers of the defending team developed this function because arrows can be supplied from soldiers. Archers are supplied with arrows after a certain period of time.</DefenseTeamsArrowinSiege>
-<SiegeEquipmentSpeedIncreases>Increase the speed of siege equipment_Siege equipment's movement speed is increased by 150% when attacking a team. Also, the loading speed of all siege weapons has been increased by 300%, the accuracy is improved, and this applies only to the defending team.</SiegeEquipmentSpeedIncreases>
-<BetterHittingFeeling>Better Hitting Feeling _ If you kill an enemy, it will fly and fall.</BetterHittingFeeling>
-<LargeCollider>Large Collider_If the soldiers are too close, the weapon will not Hit. So the size of the colliders of the soldiers was increased by 10%. Radius Default : 37cm => Current 40.7‬cm</LargeCollider>
-<NONE>(None)</NONE>
-<Performance>(Performance)</Performance>
-<Order>(Order)</Order>
-<New>(NEW)</New>
-<Me>(Me)</Me>
-<Enemy>(Enemy)</Enemy>
-<Friendly>(Friendly)</Friendly>
-<FriendlyEnemy>(Friendly / Enemy)</FriendlyEnemy>
-<Siege>(Siege)</Siege>
-<AutoEnemy>(AutoEnemy)</AutoEnemy>
-<CreateBeforePopup>Quick Hotkey ( Alt + ,  ) Press at the same time to set up outside the field battlen.</CreateBeforePopup>
-<CreateFirstPopup>Set the mod in the menu!</CreateFirstPopup>
-<CreateUpdatePopup>The version of mod is out of date. Please update. Mod is disabled.</CreateUpdatePopup>
-<AlreadyAddedThisModule>You have already added this module. Please disable the mod in the game launcher.</AlreadyAddedThisModule>
-<DontRunAwayAndFight_MSG>FIGHT! DON'T RUN AWAY!</DontRunAwayAndFight_MSG>
-<TheLastAssault_MSG>ALL TROOPS CHARGE!</TheLastAssault_MSG>
-<ProtectTheGatesDestroyed_MSG>THE GATES ARE DESTROYED! STOP THE ENEMY! KILL IT!</ProtectTheGatesDestroyed_MSG>
-<ProtectTheGatesOpen_MSG>THE GATE WAS OPENED! STOP THE ENEMY! KILL IT!</ProtectTheGatesOpen_MSG>
-<DefenseTeamsArrowinSiege_MSG>Defense team soldiers were replenished with arrows and bolts.</DefenseTeamsArrowinSiege_MSG>
+<DebugLog>Debug Log _ Jeżeli w modzie wystąpi jakiś błąd, wyświetli się powiadomienie na czerwono.</DebugLog>
+<EnemyGeneralsMessage>Powiadomienia wrogiego dowódcy _ Włączenie niektórych opcji spowoduje wyświetlanie się powiadomień o rozkazach wrogiego dowódcy.</EnemyGeneralsMessage>
+<AutomaticallyRemoveObjectsInTheField>Automatycznie usuwaj obiekty _ Walcząc w czasie oblężenia, mapa szybko zapełnia się różnymi przedmiotami, jak tarcze czy oręż. Te obiekty przez dość długi czas walają się po ziemi i gra cały czas sprawdza ich pozycję. Ta opcja została dodana, by nieco to zoptymalizować.</AutomaticallyRemoveObjectsInTheField>
+<HorseHealthIsSlowlyRestored>Konie powoli odzyskują zdrowie _ Opcja dotyczy dosiadanych przez ciebie wierzchowców. Co sekundę odzyskują 0.75% swego maksymalnego zdrowia. </HorseHealthIsSlowlyRestored>
+<GiveTheHorseAHeal>Daj mu ostrogę! _ Opcja dotyczy dosiadanych przez ciebie wierzchowców. Kiedy trafisz wroga, twój wierzchowiec odzyskuje 2% swego maksymalnego zdrowia. </GiveTheHorseAHeal>
+<CharacterHealthIsSlowlyRestored>Postać powoli odzyskuje zdrowie _ Ta opcja dotyczy tylko gracza. Zdrowie postaci leczy się o 0.75% maksymalnego zdrowia na sekundę. </CharacterHealthIsSlowlyRestored>
+<LetsBattleInTheMorning>Walczmy z rana _ Noc i zmierzch zmieniają się na ranek i popołudnie. Działa tylko gdy rozpocznie się bitwę w godzinach 0-9 oraz 18-24. W pozostałych godzinach opcja automatycznie się wyłącza i bitwy rozgrywają się normalnie.</LetsBattleInTheMorning>
+<PartyPrisonerSizeLimit>Limit więźniów drużyny _ Maksymalna liczba więźniów zostaje ustawiona na 2000.</PartyPrisonerSizeLimit>
+<PartyMemberSizeLimit>Limit liczebności drużyny _ Maksymalna liczba członków drużyny zostaje ustawiona na 2000.</PartyMemberSizeLimit>
+<GiveMeHeal>Ulecz mnie! _ Ta opcja dotyczy tylko gracza. Postać odzyskuje 6.5% swoich maksymalnych punktów zdrowia po udanym trafieniu. Nie działa podczas turniejów. Zablokowane ataki nie odnawiają zdrowia. Leczenie działa tylko podczas bitew polowych oraz ataków na kryjówki bandytów. Dotyczy zarówno broni do walki wręcz, jak i broni dystansowych.</GiveMeHeal>
+<NeverRunAwayOrPanic>Nigdy nie uciekaj i nie panikuj _ Żołnierze nigdy nie uciekają i nie panikują. Opcja 'Ogranicz uciekanie i panikę' zostanie wyłączona, jeśli włączysz tę.</NeverRunAwayOrPanic>
+<ReduceTheSituationOfRunningAwayOrPanic>Ogranicz uciekanie i panikę _ Żołnierze nadal będą uciekać lub panikować, ale mniej niż dotychczas. Nie będą już zarządzani w systemie 14/500 12/250 10/100 8/50 6/25 4/10 (minimum/ogółem). Od teraz żołnierze będą uciekać wtedy, gdy morale się wyczerpie. Opcje 'Nigdy nie uciekaj i nie panikuj' oraz 'Ostateczny szturm' zostaną wyłączone, jeśli włączysz tę.</ReduceTheSituationOfRunningAwayOrPanic>
+<IgnoreTheRetreatOrders>Zignoruj rozkaz odwrotu! _ Nawet jeśli wydano rozkaz odwrotu, żołnierze zignorują go i zaatakują bardziej agresywnie.</IgnoreTheRetreatOrders>
+<TheLastAssault>Ostateczny szturm! _ Jeżeli liczba żołnierzy spadnie poniżej 15% ogółu, otrzymają rozkaz do ataku. Jeśli pozostanie 75 z 500, wszyscy zaatakują. Opcja 'Ogranicz uciekanie i panikę' zostanie wyłączona, jeśli włączysz tę.</TheLastAssault>
+<BonusOnAttackAndDefense>Premia do ataku i obrony! _ Jeśli zostanie wydany ofensywny lub defensywny rozkaz, żołnierze zyskają dodatkowe premie. Uczyni ich to bardziej agresywnymi lub lepiej będą się bronić w walce z przeciwnikami.</BonusOnAttackAndDefense>
+<TheConditionOfTheDay>Pora dnia! _ W zależności od pory dnia żołnierze będą walczyć lepiej lub gorzej.</TheConditionOfTheDay>
+<AggressiveAttackAndDefense>Agresywny atak i obrona! _ Żołnierze to wyszkoleni wojacy, potrafią lepiej blokować i bronić się przed atakami.</AggressiveAttackAndDefense>
+<ProtectTheGates>Chronić bram! _ Podczas oblężenia żołnierze z centralnej części warowni, strzegący bramy, raźnie ruszą do ataku, kiedy wróg przełamie wrota.</ProtectTheGates>
+<AttackWhileMoving>Atakować podczas ruchu! _ Zwykle przy rozkazach podążania lub udawania się na pozycję żołnierze ignorują wroga, teraz będą atakować podczas przemieszczania się.</AttackWhileMoving>
+<IgnoreFormation>Ignorować formacje! _ Kiedy wróg jest blisko, jednostki zignorują swą formację i ruszą do walki.</IgnoreFormation>
+<DontWalkRun>Nie ociągać się, biegiem! _ Standardowo jednostki biegną szarżując na wroga. Gdy jednak są już blisko, zaczynają iść i nie robią nic. Uznałem, że to niedorzeczne. Dlatego ta opcja wymusza bieg, by jednostki nie zwalniały do chodu.</DontWalkRun>
+<DefenseTeamsArrowinSiege>Amunicja obrońców podczas oblężeń _ W czasie oblężeń obrońcy mają łatwy dostęp do zapasów amunicji. Po upływie pewnego czasu amunicja strzelców obrońców zostanie uzupełniona.</DefenseTeamsArrowinSiege>
+<SiegeEquipmentSpeedIncreases>Lepszy sprzęt oblężniczy _ Szybkość ruchu machin oblężniczych ze strony atakujących zostaje zwiększona o 150%. Dodatkowo prędkość przeładowania wszystkich machin oblężniczych zostaje przyspieszona o 300%, a ich celność zostaje zwiększona, lecz dotyczy to tylko strony broniącej się.</SiegeEquipmentSpeedIncreases>
+<BetterHittingFeeling>Lepsze efekty trafień _ Kiedy zabijesz wroga, efektowniej upadnie.</BetterHittingFeeling>
+<LargeCollider>Powiększone kolidery _ Gdy żołnierze są zbyt blisko, broń nie potrafi ich skutecznie trafić. Dlatego też rozmiar koliderów żołnierzy zostaje powiększony o 10%. Domyślny promień: 37cm => Obecnie: 40,7cm</LargeCollider>
+<NONE>(Brak)</NONE>
+<Performance>(Wydajność)</Performance>
+<Order>(Drużyna)</Order>
+<New>(NOWE) </New>
+<Me>(Gracz)</Me>
+<Enemy>(Wrogowie)</Enemy>
+<Friendly>(Sojusznicy)</Friendly>
+<FriendlyEnemy>(Sojusznicy / Wrogowie)</FriendlyEnemy>
+<Siege>(Oblężenia)</Siege>
+<AutoEnemy>(SI wrogów)</AutoEnemy>
+<CreateBeforePopup>Klawisz skrótu ( Alt + ,  ) pozwala ustawić te opcje w dowolnym momencie gry (poza bitwą).</CreateBeforePopup>
+<CreateFirstPopup>Ustaw moda w menu!</CreateFirstPopup>
+<CreateUpdatePopup>Wersja moda jest przestarzała. Uaktualniją ją. Mod został wyłączony.</CreateUpdatePopup>
+<AlreadyAddedThisModule>Już dodałeś ten modów. Wyłącz moda w launcherze gry.</AlreadyAddedThisModule>
+<DontRunAwayAndFight_MSG>WALCZYĆ! NIE UCIEKAĆ!</DontRunAwayAndFight_MSG>
+<TheLastAssault_MSG>WSZYSCY, DO ATAKU!</TheLastAssault_MSG>
+<ProtectTheGatesDestroyed_MSG>BRAMA ZOSTAŁA ZNISZCZONA! POWSTRZYMAĆ WROGÓW! ZABIĆ ICH!</ProtectTheGatesDestroyed_MSG>
+<ProtectTheGatesOpen_MSG>BRAMA ZOSTAŁA OTWARTA! POWSTRZYMAĆ WROGÓW! ZABIĆ ICH!</ProtectTheGatesOpen_MSG>
+<DefenseTeamsArrowinSiege_MSG>Strzały i bełty obrońców zostały uzupełnione.</DefenseTeamsArrowinSiege_MSG>
 </FightAggressively>
