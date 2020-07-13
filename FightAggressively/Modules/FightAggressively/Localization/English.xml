@@ -1,0 +1,46 @@
+<FightAggressively>
+<DebugLog>Debug Log_If an error occurs in this mod, a red log is output.</DebugLog>
+<EnemyGeneralsMessage> Enemy General's Message_Enabling some features will output an enemy general's message in battle.</EnemyGeneralsMessage>
+<AutomaticallyRemoveObjectsInTheField>Remove objects automatically_If you are fighting in a siege, there are very many objects, such as weapons and shields. These objects roll a lot on the floor for a very long time. Until I finished the battle with 1150 vs 450, they remained, and I thought that many objects were being calculated and inspected by the game engine. So I added a function to optimize these.</AutomaticallyRemoveObjectsInTheField>
+<HorseHealthIsSlowlyRestored> The horse slowly regains health_This is for the horse you are riding. Horses regenerate once a second by 0.75% of their total health. </HorseHealthIsSlowlyRestored>
+<GiveTheHorseAHeal> Give the horse a heel! _This is for the horse you are riding. When a character hits an enemy, the horse riding recovers 2% of its total health. </GiveTheHorseAHeal>
+<CharacterHealthIsSlowlyRestored> Character slowly recovers health_this is only for your character. Characters are regenerated once a second by 0.75% of their total health. </CharacterHealthIsSlowlyRestored>
+<LetsBattleInTheMorning>Let's Battle In The Morning_Night and dawn change to morning or afternoon, only active at 0-9 am and 18-24 pm when entering the battle, and during the day the function is deactivated and naturally passes.</LetsBattleInTheMorning>
+<PartyPrisonerSizeLimit>Party Prisoner Size Limit_The maximum number of prisoners allowed is fixed at 2000.</PartyPrisonerSizeLimit>
+<PartyMemberSizeLimit>Party Member Size Limit_The maximum number of soldiers who can lead the unit is fixed at 2000.</PartyMemberSizeLimit>
+<GiveMeHeal>Give Me Heal!_This mod is only for your character. Recovers 6.5% of your maximum health regardless of the damage you hit. This mod now recovers 6.5% after hitting, but may change in the future. It has no effect in tournaments. Defending your attack will not restore health. The effect is activated only when attacking a field battle or hiding place. Health is restored even when shooting spears and bows and hitting.</GiveMeHeal>
+<NeverRunAwayOrPanic>Never running away or panic _ Soldiers never run away or panic. The 'Reduce the state of running away or panic' feature is disabled if you have enabled this feature.</NeverRunAwayOrPanic>
+<ReduceTheSituationOfRunningAwayOrPanic>Reduce the state of running away or panic _ Soldiers escape or panic, but they are applied less than before. Soldiers will no longer be managed in mod from 14/500 12/250 10/100 8/50 6/25 4/10 (minimum/total). From this point on, the soldiers will flee when the morale runs out. The 'Never running away or panic','The Last Assault' feature is disabled if you have enabled this feature.</ReduceTheSituationOfRunningAwayOrPanic>
+<IgnoreTheRetreatOrders>Ignore The Retreat Orders!_Even if the longevity orders to retreat, the soldiers ignore them and attack more aggressively.</IgnoreTheRetreatOrders>
+<TheLastAssault>The Last Assault!_If the number of enemy soldiers is less than 15% of the total, the longevity orders the soldiers to charge. If only 75 of the 500 remain, all are ordered.  The 'Reduce the state of running away or panic' feature is disabled if you have enabled this feature.</TheLastAssault>
+<BonusOnAttackAndDefense>Bonus On Attack And Defense!_When a longevity orders an offensive or defensive command to the soldiers, the soldiers get additional action bonuses. It makes soldiers more aggressive and defensive when fighting enemy forces.</BonusOnAttackAndDefense>
+<TheConditionOfTheDay>The Condition Of The Day!_Depending on the state of the day, soldiers fight better or worse.</TheConditionOfTheDay>
+<AggressiveAttackAndDefense>Aggressive Attack And Defense!_They are trained soldiers, they can better block when defending against enemy attacks, and they know where to block.</AggressiveAttackAndDefense>
+<ProtectTheGates>Protect The Gates!_In siege, ShieldWall soldiers in the center of the defense team's area attack enthusiastically when the gates are broken.</ProtectTheGates>
+<AttackWhileMoving>Attack While Moving!_if the longevity orders the soldiers to follow or order them to move there, the soldiers will not stop attacking while moving.</AttackWhileMoving>
+<IgnoreFormation>Ignore Formation!_If the enemy is near, ignore the formation and run directly to fight.</IgnoreFormation>
+<DontWalkRun>Don't Walk And Run!_They run to attack the enemy. But when I almost arrive I start walking and do nothing. I thought this was a very stupid feature for the war. So I let them run without walking</DontWalkRun>
+<DefenseTeamsArrowinSiege>Defense Team's Arrow in Siege_In siege, the archers of the defending team developed this function because arrows can be supplied from soldiers. Archers are supplied with arrows after a certain period of time.</DefenseTeamsArrowinSiege>
+<SiegeEquipmentSpeedIncreases>Increase the speed of siege equipment_Siege equipment's movement speed is increased by 150% when attacking a team. Also, the loading speed of all siege weapons has been increased by 300%, the accuracy is improved, and this applies only to the defending team.</SiegeEquipmentSpeedIncreases>
+<BetterHittingFeeling>Better Hitting Feeling _ If you kill an enemy, it will fly and fall.</BetterHittingFeeling>
+<LargeCollider>Large Collider_If the soldiers are too close, the weapon will not Hit. So the size of the colliders of the soldiers was increased by 10%. Radius Default : 37cm => Current 40.7‬cm</LargeCollider>
+<NONE>(None)</NONE>
+<Performance>(Performance)</Performance>
+<Order>(Order)</Order>
+<New>(NEW)</New>
+<Me>(Me)</Me>
+<Enemy>(Enemy)</Enemy>
+<Friendly>(Friendly)</Friendly>
+<FriendlyEnemy>(Friendly / Enemy)</FriendlyEnemy>
+<Siege>(Siege)</Siege>
+<AutoEnemy>(AutoEnemy)</AutoEnemy>
+<CreateBeforePopup>Quick Hotkey ( Alt + ,  ) Press at the same time to set up outside the field battlen.</CreateBeforePopup>
+<CreateFirstPopup>Set the mod in the menu!</CreateFirstPopup>
+<CreateUpdatePopup>The version of mod is out of date. Please update. Mod is disabled.</CreateUpdatePopup>
+<AlreadyAddedThisModule>You have already added this module. Please disable the mod in the game launcher.</AlreadyAddedThisModule>
+<DontRunAwayAndFight_MSG>FIGHT! DON'T RUN AWAY!</DontRunAwayAndFight_MSG>
+<TheLastAssault_MSG>ALL TROOPS CHARGE!</TheLastAssault_MSG>
+<ProtectTheGatesDestroyed_MSG>THE GATES ARE DESTROYED! STOP THE ENEMY! KILL IT!</ProtectTheGatesDestroyed_MSG>
+<ProtectTheGatesOpen_MSG>THE GATE WAS OPENED! STOP THE ENEMY! KILL IT!</ProtectTheGatesOpen_MSG>
+<DefenseTeamsArrowinSiege_MSG>Defense team soldiers were replenished with arrows and bolts.</DefenseTeamsArrowinSiege_MSG>
+</FightAggressively>
