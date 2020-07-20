@@ -18,7 +18,7 @@
     <string id="uy86VZX2" text="Messenger Arrived" />
     
     <string id="YnRmSele" text="The messenger from {FACTION1_NAME} has arrived at {HERO_NAME} of {FACTION2_NAME}." />
-    <string id="qNWMZP0z" text="The messenger from {FACTION1_NAME} will arrive at {HERO_NAME} of {FACTION2_NAME} in {TRAVEL_TIME} days." />
+    <string id="qNWMZP0z" text="The messenger from {FACTION1_NAME} will arrive at {HERO_NAME} of {FACTION2_NAME} within {TRAVEL_TIME} days." />
 
     <string id="t0ZS9maD" text="{KINGDOM_LEADER} of the {KINGDOM} is proposing peace with the {PLAYER_KINGDOM}." />
     <string id="ZrwszZww" text=" They are willing to pay war reparations of {DENARS} denars." />
@@ -131,6 +131,8 @@
     <string id="7QvXkcxH" text="Donate gold to clans in your kingdom"/>
     <string id="e7uxH1jc" text="Gold Cost: {GOLD_COST}"/>
     <string id="4lG3JG2e" text="Relation Gain: {RELATION_GAIN}+"/>
+    
+    <string id="Q2vXbwvC" text="Diplomacy"/>
 
     <!-- -
     ||||||||||||||||||||||||||| War Exhaustion |||||||||||||||||||||||||||
@@ -172,10 +174,8 @@
     <string id="WB5zdvdT" text="Influence cost for making peace with another kingdom. Default value is 100." />
     
     <string id="nueOs6m9" text="Messengers" />
-    <string id="qeDOmURl" text="Send Messenger Influence Cost" />
-    <string id="Lkos6GQb" text="Influence cost for sending a messenger to another leader. Default value is 10." />
     <string id="nMwWHj4h" text="Send Messenger Gold Cost" />
-    <string id="ehMf7xvE" text="Gold cost for sending a messenger to another character when not in a kingdom. Default value is 100." />
+    <string id="ehMf7xvE" text="Gold cost for sending a messenger to another character. Default value is 100." />
 
     <string id="nnXi6MmH" text="Messenger Travel Time in Days" />
     <string id="zkvCGLuK" text="The amount of time (in days) a messenger takes to reach a kingdom's leader. Default value is 3." />
