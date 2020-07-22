@@ -6,17 +6,18 @@
   </tags>
   <strings>
     <string id="MYz8nKqq" text="Diplomacy Fixes" />
+    <string id="Q2vXbwvC" text="Dyplomacja"/>
     <string id="hPERH3u4" text="Mod Diplomacy Fixes został załadowany!!!" />
     <string id="TS1iV2pO" text="Zbyt mało wpływów!" />
     <string id="XQFxDr11" text="Jedno z aktywnych zadań uniemożliwia to działanie!" />
-    <string id="ONNcmltF" text="Ta wojna trwa zbyt krótko, by móc zaproponować pokój!{newline} {?ELAPSED_DAYS==0}Nie minął nawet jeden dzień{?}{?ELAPSED_DAYS==1}Minął zaledwie {ELAPSED_DAYS} dzień{?}{?ELAPSED_DAYS>4}Minęło{?}Minęły{\?} zaledwie {ELAPSED_DAYS} dni{\?}{\?} z wymaganych {REQUIRED_DAYS} dni." />
-    <string id="jPHYDjXQ" text="Nie można wypowiedzieć wojny tuż po zawarciu pokoju!{newline} {?ELAPSED_DAYS==0}Nie minął nawet jeden dzień{?}{?ELAPSED_DAYS==1}Minął zaledwie {ELAPSED_DAYS} dzień{?}{?ELAPSED_DAYS>4}Minęło{?}Minęły{\?} zaledwie {ELAPSED_DAYS} dni{\?}{\?} z wymaganych {REQUIRED_DAYS} dni." />
+    <string id="ONNcmltF" text="Ta wojna trwa zbyt krótko, by móc zaproponować pokój! {newline}{?ELAPSED_DAYS==0}Nie minął nawet jeden dzień{?}{?ELAPSED_DAYS==1}Minął zaledwie {ELAPSED_DAYS} dzień{?}{?ELAPSED_DAYS>4}Minęło{?}Minęły{\?} zaledwie {ELAPSED_DAYS} dni{\?}{\?} z wymaganych {REQUIRED_DAYS} dni." />
+    <string id="jPHYDjXQ" text="Nie można wypowiedzieć wojny tuż po zawarciu pokoju! {newline}{?ELAPSED_DAYS==0}Nie minął nawet jeden dzień{?}{?ELAPSED_DAYS==1}Minął zaledwie {ELAPSED_DAYS} dzień{?}{?ELAPSED_DAYS>4}Minęło{?}Minęły{\?} zaledwie {ELAPSED_DAYS} dni{\?}{\?} z wymaganych {REQUIRED_DAYS} dni." />
     <string id="v0cDMIcl" text="Nie można wypowiedzieć wojny temu królestwu. " />
     <string id="Pqk3WuGz" text="Nie można zawrzeć pokoju z tym królestwem. " />
     <string id="zv12jjyW" text="Posłaniec został wysłany" />
     <string id="uy86VZX2" text="Posłaniec dotarł na miejsce" />
     <string id="YnRmSele" text="Posłaniec frakcji {FACTION1_NAME} dotarł do: {HERO_NAME} z frakcji {FACTION2_NAME}." />
-    <string id="qNWMZP0z" text="Posłaniec frakcji {FACTION1_NAME} dotrze do: {HERO_NAME} z frakcji {FACTION2_NAME} {?TRAVEL_TIME==1}nazajutrz{?}za {TRAVEL_TIME} dni{\?}." />
+    <string id="qNWMZP0z" text="Posłaniec frakcji {FACTION1_NAME} dotrze do: {HERO_NAME} z frakcji {FACTION2_NAME} {?TRAVEL_TIME==1}nazajutrz{?}w ciągu {TRAVEL_TIME} dni{\?}." />
     <string id="t0ZS9maD" text="{KINGDOM_LEADER} z frakcji {KINGDOM} proponuje zawarcie pokoju frakcji {PLAYER_KINGDOM}." />
     <string id="ZrwszZww" text=" Królestwo jest gotowe zapłacić reparacje wojenne w wysokości {DENARS} denarów." />
     <string id="BkGSVccZ" text="Propozycja pokoju" />
@@ -36,7 +37,7 @@
     <string id="98hwXUTp" text="Przyznaj włości klanom swego królestwa" />
 
     <string id="QVp4v2MG" text="Przemęczenie wojną jest zbyt wysokie, by wypowiedzieć nową wojnę. Obecne wyczerpanie wojną wynosi {CURRENT_WAR_EXHAUSTION}, a maksymalnie dopuszcza się {LOW_WAR_EXHAUSTION_THRESHOLD}." />
-    <string id="DrnXprup" text="Jeszcze niedawno byliście w stanie wojny, więc nie możecie utworzyć sojuszu.{newline} {?ELAPSED_DAYS==0}Nie minął nawet jeden dzień{?}{?ELAPSED_DAYS==1}Minął zaledwie {ELAPSED_DAYS} dzień{?}{?ELAPSED_DAYS>4}Minęło{?}Minęły{\?} zaledwie {ELAPSED_DAYS} dni{\?}{\?} z wymaganych {REQUIRED_DAYS} dni." />
+    <string id="DrnXprup" text="Jeszcze niedawno byliście w stanie wojny, więc nie możecie utworzyć sojuszu. {newline}{?ELAPSED_DAYS==0}Nie minął nawet jeden dzień{?}{?ELAPSED_DAYS==1}Minął zaledwie {ELAPSED_DAYS} dzień{?}{?ELAPSED_DAYS>4}Minęło{?}Minęły{\?} zaledwie {ELAPSED_DAYS} dni{\?}{\?} z wymaganych {REQUIRED_DAYS} dni." />
     <string id="KHJyWj9H" text="Frakcje nie mogą być w sojuszu." />
     <string id="UQZmdLzc" text="Frakcje nie mogą być w stanie wojny." />
     <string id="PdN5g5ub" text="Utworzono sojusz" />
@@ -47,7 +48,7 @@
     <string id="0WPWbx70" text="Stwórz sojusz" />
     <string id="K4GraLTn" text="Zerwij sojusz" />
     <string id="VvTTrRpl" text="Ta frakcja nie jest zainteresowana zawarciem z tobą sojuszu." />
-    <string id="wst0lArp" text="Ten sojusz trwał zbyt krótko, byś m{?PLAYER.GENDER}ogła{?}ógł{\?} go zerwać!{newline} {?ELAPSED_DAYS==0}Nie minął nawet jeden dzień{?}{?ELAPSED_DAYS==1}Minął zaledwie {ELAPSED_DAYS} dzień{?}{?ELAPSED_DAYS>4}Minęło{?}Minęły{\?} zaledwie {ELAPSED_DAYS} dni{\?}{\?} z wymaganych {REQUIRED_DAYS} dni." />
+    <string id="wst0lArp" text="Ten sojusz trwał zbyt krótko, byś m{?PLAYER.GENDER}ogła{?}ógł{\?} go zerwać! {newline}{?ELAPSED_DAYS==0}Nie minął nawet jeden dzień{?}{?ELAPSED_DAYS==1}Minął zaledwie {ELAPSED_DAYS} dzień{?}{?ELAPSED_DAYS>4}Minęło{?}Minęły{\?} zaledwie {ELAPSED_DAYS} dni{\?}{\?} z wymaganych {REQUIRED_DAYS} dni." />
     <string id="KqfNSsBE" text="Sojusze" />
     <string id="Dirltd6Z" text="Sojusze są niedostępne." />
     <string id="XlL50Ha9" text="Nie można zawrzeć pokoju z królestwem podczas aktywnego oblężenia gracza." />
@@ -80,7 +81,7 @@
     <string id="e7uxH1jc" text="Koszt złota: {GOLD_COST}"/>
     <string id="4lG3JG2e" text="Polepszenie relacji: +{RELATION_GAIN}"/>
     <string id="N7goPgiq" text="Uzurpuj tron"/>
-    <string id="WVe7QwhW" text="Uzurpuj prawo do tronu tego królestwa        {newline}Wsparcieˍklanów:ˍ{SUPPORTING_TIERS}ˍ/ˍ{OPPOSING_TIERS}"/><!-- scalająca spacja= 'ˍ' 717 -->
+    <string id="WVe7QwhW" text="Uzurpuj prawo do tronu tego królestwa      {newline}Wsparcieˍklanów:ˍ{SUPPORTING_TIERS}ˍ/ˍ{OPPOSING_TIERS}"/><!-- scalająca spacja= 'ˍ' 717 -->
     <string id="CxdpR6w4" text="Ekspansjonizm"/>
     <string id="ARNRwPrY" text="Utworzono koalicję"/>
     <string id="qbLPBlIv" text="Calradia zmęczona jest już nieubłaganą ekspansją frakcji {EXPANSIONIST_KINGDOM}. Utworzona została więc koalicja pod dowództwem frakcji {COALITION_KINGDOM}, abyw powstrzymać agresora!"/>
@@ -123,10 +124,8 @@
     <string id="iNsXQD2q" text="Stały koszt wpływów zawarcia pokoju" />
     <string id="WB5zdvdT" text="Koszt wpływów za zawarcie pokoju z innym królestwem. Domyślna wartość to 100." />
     <string id="nueOs6m9" text="Posłańcy" />
-    <string id="qeDOmURl" text="Koszt wysłania posłańca we wpływach" />
-    <string id="Lkos6GQb" text="Koszt we wpływach za wysłanie posłańca do innego władcy. Domyślna wartość to 10." />
     <string id="nMwWHj4h" text="Koszt wysłania posłańca w złocie" />
-    <string id="ehMf7xvE" text="Kosz w złocie za wysłanie posłańca do innej postaci, gdy nie należysz do żadnego królestwa. Domyślna wartość to 100." />
+    <string id="ehMf7xvE" text="Kosz w złocie za wysłanie posłańca do innej postaci. Domyślna wartość to 100." />
     <string id="nnXi6MmH" text="Czas podróży posłańca w dniach" />
     <string id="zkvCGLuK" text="Ilość czasu (w dniach), jaką potrzebuje posłaniec, by dotrzeć do władcy królestwa. Domyślna wartość to 3." />
 
